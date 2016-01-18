@@ -19,12 +19,12 @@ Padding is the space between the content and the border, whereas margin is the s
 
 I disliked this challenge. I got the hang of devtools, but didn't exactly enjoy it. The equidistant portion of the assignment got tedious for me. 
 
-![Alt text](imgs/ChangeTheColors.jpg)
-![Alt text](imgs/Column.jpg)
-![Alt text](imgs/Equidistant.jpg)
-![Alt text](imgs/Footer.jpg)
-![Alt text](imgs/GetCreative.jpg)
-![Alt text](imgs/Header.jpg)
-![Alt text](imgs/Row.jpg)
-![Alt text](imgs/Sidebar.jpg)
-![Alt text](imgs/Squares.jpg)
+![Alt text](phase-0/week-2/imgs/ChangeTheColors.jpg)
+![Alt text](phase-0/week-2/imgs/Column.jpg)
+![Alt text](phase-0/week-2/imgs/Equidistant.jpg)
+![Alt text](phase-0/week-2/imgs/Footer.jpg)
+![Alt text](phase-0/week-2/imgs/GetCreative.jpg)
+![Alt text](phase-0/week-2/imgs/Header.jpg)
+![Alt text](phase-0/week-2/imgs/Row.jpg)
+![Alt text](phase-0/week-2/imgs/Sidebar.jpg)
+![Alt text](phase-0/week-2/imgs/Squares.jpg)
