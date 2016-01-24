@@ -1,3 +1,7 @@
+https://github.com/CheSanders/phase-0/blob/master/week-4/defining-variables.rb
+
+https://github.com/CheSanders/phase-0/blob/master/week-4/simple-string.rb
+
 -What does puts do?
 
 The puts (short for "put string") is used to  display the results of evaluating Ruby code. Puts adds a newline after executing.
