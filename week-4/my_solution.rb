@@ -1,6 +1,6 @@
 # Define an Empty Method
 
-# I worked on this challenge [by myself, with: nobody ].
+# I worked on this challenge [by myself].
 
 # Your Solution Below
 
@@ -10,4 +10,3 @@ def do_something(name, age, weight)
 	puts weight
 end
 
-make_address("2902 Benvenue Ave.", "Berkeley, "CA", "94705")
