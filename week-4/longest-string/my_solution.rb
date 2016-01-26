@@ -19,4 +19,3 @@ def longest_string(array)
       longest = x
     end
   end
-end
