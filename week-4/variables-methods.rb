@@ -1,3 +1,9 @@
+https://github.com/CheSanders/phase-0/blob/master/week-4/address/my_solution.rb
+
+https://github.com/CheSanders/phase-0/blob/master/week-4/my_solution.rb
+
+https://github.com/CheSanders/phase-0/blob/master/week-4/math/my_solution.rb
+
 Puts 'What/'s your first name?'
 first_name = gets.chomp
 Puts 'What/'s your middle name?'
