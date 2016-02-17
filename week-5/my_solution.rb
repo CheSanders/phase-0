@@ -18,6 +18,7 @@
 #The steps needed to solve this problems are to define your method, create an if/else loop, and output the solution.
 
 
+
 # 1. Initial Solution
 
 def separate_comma(integer)
@@ -54,8 +55,6 @@ end
 # 2. Refactored Solution
 
 # I dont know 
-
-
 
 # 3. Reflection
 
